@@ -57,6 +57,8 @@ It's not reference for anything, just to satisfy some curiosity.
     - installed by [pyenv](https://github.com/pyenv/pyenv)
   - [Kivy](https://kivy.org/) 1.10.1
     - on a [virtualenv](https://github.com/pyenv/pyenv-virtualenv)
+  - IDE: [PyCharm](https://www.jetbrains.com/pycharm/)
+    - using [KV Lang Auto-completion and Highlighting](https://github.com/kivy/kivy/wiki/Setting-Up-Kivy-with-various-popular-IDE's#kv-lang-auto-completion-and-highlighting)
 
 I did this setup days ago, my Big Bang :boom:
 
