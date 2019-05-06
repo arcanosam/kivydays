@@ -71,3 +71,6 @@ He did a playlist [teaching Kivy](https://www.youtube.com/playlist?list=PLsMpSZT
 So, if I keep some discipline, the first 41 days are ready to go!
 
 So let it be light! :sparkles:
+
+
+:arrow_right: [Dia 001 - "The windows of my soul I throw Wide open to the sun."](days/001.md)
